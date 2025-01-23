@@ -19,7 +19,8 @@ Data Science brings raw data to life. It uncovers hidden patterns and tells stor
   <a href="https://www.youtube.com/">
     <img width="32px" alt="Youtube" title="Youtube" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfhDUoD7vtHv-sm2A2hhNb0JzuxSldKA_Aw&s"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="[www.linkedin.com/in/micki-laurren-corpuz-916705323/](https://www.linkedin.com/in/micki-laurren-corpuz-916705323/)"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbb0_npkny3YOvY91wF6jgOkRwTEcaUcyUOg&s"/></a>
+  <a href="https://www.linkedin.com/in/micki-laurren-corpuz-916705323/">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbb0_npkny3YOvY91wF6jgOkRwTEcaUcyUOg&s"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
