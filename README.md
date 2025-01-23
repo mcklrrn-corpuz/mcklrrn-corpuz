@@ -7,12 +7,11 @@ I am a sophomore Computer Engineering student with a passion for technology, hea
 
 Data Science brings raw data to life. It uncovers hidden patterns and tells stories that would otherwise remain unseen. I’m especially inspired by how it can drive solutions in areas I’m passionate about.
 
-### Life
-📍Cainta, Philippines | 🇵🇭
-
-📖Technological Institute of the Philippines–Quezon City
-
-#### Reading and writing | Happiness is a virtue.
+### About me
+📍 Cainta, Philippines | 🇵🇭<br/>
+📖 Technological Institute of the Philippines–Quezon City<br/>
+🌿 Reading and writing<br/>
+💫 Happiness is a virtue.
 
 
 <!-- Social icons section -->
